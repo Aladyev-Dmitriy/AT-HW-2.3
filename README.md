@@ -1,5 +1,7 @@
 # postmanEcho
 
+[![Build status](https://ci.appveyor.com/api/projects/status/slxqp3wbp266krdj/branch/main?svg=true)](https://ci.appveyor.com/project/Aladyev-Dmitriy/at-hw-2-3/branch/main)
+
 ## Задача №3 - Postman Echo
 
 **Важно**: эту задачу нужно выполнять в отдельном репозитории
